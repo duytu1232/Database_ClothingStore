@@ -1,0 +1,17 @@
+# Ignore database files
+*.mdf
+*.ldf
+
+# Ignore specific files
+ClothingStore.mdf
+ClothingStore_log.ldf
+
+# Ignore Visual Studio files
+/.vs/
+/ClothingShop/.vs/
+
+# Ignore all .log files
+*.log
+
+# Ignore the entire directory
+database/
